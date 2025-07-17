@@ -1,4 +1,0 @@
-2025/07/02-10:39:23.367 57b9a2 Reusing MANIFEST /Users/jonathanmuia/Desktop/ChatbotPeluquería/tokens/chatbotpeluqueria/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/07/02-10:39:23.368 57b9a2 Recovering log #56
-2025/07/02-10:39:23.375 57b9a2 Reusing old log /Users/jonathanmuia/Desktop/ChatbotPeluquería/tokens/chatbotpeluqueria/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000056.log 
-2025/07/02-10:39:25.844 57b9ac Manual compaction at level-0 from '\x00\x1d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1e\x00\x00\x00' @ 0 : 0; will stop at (end)
